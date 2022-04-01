@@ -79,7 +79,7 @@ namespace assignment {
   }
 
   void MinBinaryHeap::Clear() {
-    // Write your code here ...
+    return;
   }
 
   std::optional<int> MinBinaryHeap::Search(int key) const {
