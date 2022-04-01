@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "MinBinaryHeap::MinBinaryHeap",
+      "setup": "",
+      "run": "ctest -VVV --output-on-failure --test-dir build -R \"MinBinaryHeap::MinBinaryHeap\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "MinBinaryHeap::Insert",
+      "setup": "",
+      "run": "ctest -VVV --output-on-failure --test-dir build -R \"MinBinaryHeap::Insert\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "MinBinaryHeap::Extract",
+      "setup": "",
+      "run": "ctest -VVV --output-on-failure --test-dir build -R \"MinBinaryHeap::Extract\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "MinBinaryHeap::Remove",
+      "setup": "",
+      "run": "ctest -VVV --output-on-failure --test-dir build -R \"MinBinaryHeap::Remove\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "MinBinaryHeap::Clear",
+      "setup": "",
+      "run": "ctest -VVV --output-on-failure --test-dir build -R \"MinBinaryHeap::Clear\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "MinBinaryHeap::Search",
+      "setup": "",
+      "run": "ctest -VVV --output-on-failure --test-dir build -R \"MinBinaryHeap::Search\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "MinBinaryHeap::Contains",
+      "setup": "",
+      "run": "ctest -VVV --output-on-failure --test-dir build -R \"MinBinaryHeap::Contains\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 5,
+      "points": 1
+    }
+  ]
+}
