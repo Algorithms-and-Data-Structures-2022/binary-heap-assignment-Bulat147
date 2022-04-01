@@ -1,0 +1,5 @@
+---
+Checks: 'clang-analyzer-*,misc-*,google-*,performance-*,readability-*'
+WarningsAsErrors: '*'
+HeaderFilterRegex: ''
+FormatStyle: none
